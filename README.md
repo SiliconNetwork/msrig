@@ -1,6 +1,6 @@
 # msrig
 A Chrome Extension that lets you earn Microsoft Rewards points without using Edge as your default browser or Bing as your default search engine.
-
+MSRIG stands for Microsoft Rewards Rig.
 ## Installation
 
 1. Clone/download this repo and extract it.
