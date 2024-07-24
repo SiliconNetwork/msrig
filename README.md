@@ -17,3 +17,9 @@ No. The code is open source, and you can verify it does not track, collect, or s
 This extension does violate the TOS, and by using this extension I am not responsible if this gets your Microsoft Rewards account suspended. I am not encouraging you to use this in any way.
 
 THIS PROJECT IS IN NO WAY AFFILIATED WITH MICROSOFT OR GOOGLE.
+
+
+## Questions?
+Join the support server!
+
+https://discord.gg/CtbJexPBgw
