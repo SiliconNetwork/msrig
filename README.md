@@ -5,7 +5,7 @@ A Chrome Extension that lets you earn Microsoft Rewards points without using Edg
 
 1. Clone/download this repo and extract it.
 2. If you are installing this on Chromium-based browsers, go to chrome://extensions/ and enable Developer Mode by toggling the switch at the top right corner.
-3. Click "Load Unpacked" and select the folder you extracted this repo to (the folder should be named msrig if you didn't extract it to another folder).
+3. Click "Load Unpacked" and select the folder you extracted this repo to (the folder should be named msrig/{version number} if you didn't extract it to another folder).
 
 ## Does It Work?
 Try firing up a search, and check the tabs of your browser. You should also verify that you are earning points.
