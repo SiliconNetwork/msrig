@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Google to Bing Search Redirector",
+  "name": "msrig",
   "version": "1.0",
   "permissions": ["tabs", "activeTab", "scripting"],
   "background": {
